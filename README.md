@@ -20,5 +20,5 @@
 <hr>
 
 - :classical_building: I'm currently working at Kiel University in Kiel, Germany.
-- :computer: I'm working a lot with H5P and like to create open educational resources (OER).
+- :computer: I'm working a lot with H5P to create open educational resources (OER).
 - :seedling: I'm currently learning R and Quarto.
